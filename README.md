@@ -4,4 +4,4 @@
 - 🌱 Currently learning Data Science and AI from [IIITB & Upgrad](https://www.upgrad.com/data-science-pgc-iiitb/)
 
 <!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Kushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kushalgambhir)](https://github.com/kushalgambhir/github-readme-stats)
+![Kushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kushalgambhir&show_icons=true&theme=radical)
